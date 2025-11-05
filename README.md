@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-Stopwatch consist the stop ,reset ,lap ,and start
+complete working stopwatch (HTML + CSS + JavaScript) It includes Start, Stop, Reset, and Lap functionality
